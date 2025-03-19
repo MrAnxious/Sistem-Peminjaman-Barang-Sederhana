@@ -26,7 +26,7 @@ Sistem ini memungkinkan pengelolaan peminjaman barang dengan dua role pengguna: 
 
 1. Clone repositori:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/username/Sistem-Peminjaman-Barang-Sederhana.git
    ```
 2. Buat database dan import `database.sql`.
 3. Sesuaikan koneksi database di `koneksi.php`.
