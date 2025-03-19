@@ -14,6 +14,14 @@ Sistem ini memungkinkan pengelolaan peminjaman barang dengan dua role pengguna: 
 - Ajukan peminjaman barang.
 - Lihat riwayat peminjaman.
 
+## Akun Default
+- **Admin**:
+  - Username: `admin`
+  - Password: `admin`
+- **User**:
+  - Username: `user`
+  - Password: `user`
+
 ## Instalasi
 
 1. Clone repositori:
@@ -33,4 +41,4 @@ Sistem ini memungkinkan pengelolaan peminjaman barang dengan dua role pengguna: 
 [MIT License](LICENSE).
 
 ---
-"Mr.Anxious"
+Mr. Anxious
